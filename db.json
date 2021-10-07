@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "krunal",
+      "userName": "krunal123",
+      "password": "123",
+      "isAdmin": true
+    },
+    {
+      "id": 3,
+      "name": "normal",
+      "userName": "normal",
+      "password": "123",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "name": "asas",
+      "userName": "as",
+      "password": "123",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "name": "admin123",
+      "userName": "admin",
+      "password": "123",
+      "isAdmin": true
+    }
+  ]
+}
